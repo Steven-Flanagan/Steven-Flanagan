@@ -1,4 +1,5 @@
-### 👋 Hi, my name is Steven
+### 👋🏻 Hello, I'm Steven Flanagan.
+### I'm a Software Engineer and IT Systems Administrator.
 
 <h3>Here's a handful of the tools that I use:</h3>
 <p>
@@ -28,3 +29,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
+<h3>My GitHub contributions summary</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Steven-Flanagan)](https://git.io/streak-stats)
