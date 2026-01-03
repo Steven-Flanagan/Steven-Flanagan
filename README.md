@@ -1,6 +1,6 @@
 ## 👋🏻 Hello, I'm Steven Flanagan.
 
-### I'm a Software Developer and IT Systems Administrator.
+### I'm a Software Developer and Systems Administrator.
 
 <br />
 
