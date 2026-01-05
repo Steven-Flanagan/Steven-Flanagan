@@ -1,10 +1,8 @@
-## 👋🏻 Hello, I'm Steven Flanagan.
-
-### I'm a Software Developer and Systems Administrator.
-
+Hi, I'm <b>Steven Flanagan</b>
+<br>
+I'm a Software Engineer / Systems Administrator.
 <br />
-
-<p>These are some of the tools that I use:</p>
+##### <p>These are some of the tools that I use:</p>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white" />
@@ -26,10 +24,9 @@
   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img alt="Veeam" src="https://img.shields.io/badge/-Veeam-00B336?style=flat-square&logo=veeam&logoColor=white" />
 </p>
-<hr>
-
-### Have a look at my website to find out more: <a href="stevenflanagan.dev">stevenflanagan.dev</a>
+Have a look at my website to find out more: <a href="https://stevenflanagan.dev">stevenflanagan.dev</a>
 
 <br />
-
-#### Most of my contributions are currently private and closed source. I plan on working on some public projects soon.
+<br />
+<br />
+<b>Most of my contributions are currently private and closed source. I plan on working on some more public projects soon.</b>
