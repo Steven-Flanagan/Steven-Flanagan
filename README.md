@@ -2,7 +2,7 @@ Hi, I'm <b>Steven Flanagan</b>
 <br>
 I'm a Software Engineer / Systems Administrator.
 <br />
-##### <p>These are some of the tools that I use:</p>
+<p>These are some of the tools that I use:</p>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white" />
