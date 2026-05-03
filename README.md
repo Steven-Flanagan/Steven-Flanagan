@@ -14,7 +14,6 @@ I'm a Cloud Infrastructure Engineer.
   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img alt="Veeam" src="https://img.shields.io/badge/-Veeam-00B336?style=flat-square&logo=veeam&logoColor=white" />
 </p>
-<i>Have a look at my website to find out more: <a href="https://stevenflanagan.dev">stevenflanagan.dev</a></i>
 
 <br />
 <br />
